@@ -43,3 +43,5 @@ Read our [contribution
 guidelines](https://github.com/nitrogen/nitrogen/blob/master/CONTRIB.markdown)
 to get started contributing to Nitrogen!  (they're not strict, just
 recommendations)
+
+:)
